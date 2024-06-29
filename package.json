@@ -1,0 +1,14 @@
+{
+"scripts": {
+  "start": "node src/app.js" ,
+   "dev":"nodemon src.app.js"
+
+},
+
+
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.3",
+    "validator": "^13.12.0"
+  }
+}
